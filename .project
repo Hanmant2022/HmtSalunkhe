@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>hmt.sevenmind.projects</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/resources/pom (3).xml</name>
+			<type>1</type>
+			<location>D:/Codemind Automation Notes/pom (3).xml</location>
+		</link>
+		<link>
+			<name>src/test/resources/testng_1.xml</name>
+			<type>1</type>
+			<location>D:/Codemind Automation Notes/testng_1.xml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
